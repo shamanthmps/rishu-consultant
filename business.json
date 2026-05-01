@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "slug": "rishu-consultant",
+    "category": "professional-services",
+    "deployed": true,
+    "siteUrl": "https://growthopsai-showcase.vercel.app/rishu-consultant/"
+  },
+  "business": {
+    "name": "Rishu Consultant",
+    "tagline": "Professional Manpower Supply for Logistics & Manufacturing",
+    "phone": "7406000780",
+    "whatsapp": "",
+    "email": "",
+    "address": {
+      "line1": "204, 2nd Main Road, East NGEF Layout",
+      "line2": "Kasthrinagar",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560043"
+    },
+    "rating": "4.9",
+    "reviewCount": "50",
+    "reviewPlatform": "Google"
+  },
+  "crm": {
+    "status": "won",
+    "contact": {
+      "name": "",
+      "whatsapp": "",
+      "last_contacted": "2026-04-15",
+      "next_followup": "",
+      "notes": "Site built and shared. Payment received Apr 15 2026."
+    },
+    "deal": {
+      "setup_fee": 2999,
+      "setup_paid_on": "2026-04-15",
+      "setup_mode": "",
+      "invoice_id": ""
+    },
+    "domain": {
+      "name": "",
+      "purchased_by": "",
+      "expiry": "",
+      "dns_live": false
+    },
+    "maintenance": {
+      "plan": "none",
+      "monthly_fee": 0,
+      "next_due": ""
+    },
+    "pitched_on": "2026-04-14",
+    "won_on": "2026-04-15",
+    "live_on": ""
+  }
+}
